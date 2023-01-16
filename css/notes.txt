@@ -1,0 +1,9 @@
+combinator selector: - relationship between two tags
+
+1.descendant (space) - parent/child/grandchild tags
+
+2.child (>) - parent/child tags
+
+3.adjacent siblings (+) -->brother/sister/first tags
+
+4.general siblings (~) -->brother/sister/all tags
