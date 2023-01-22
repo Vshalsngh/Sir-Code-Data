@@ -1,0 +1,43 @@
+Table:
+
+//Instead of using table tag to create table we can use css properties to create our own table:
+
+properties:
+
+To create table
+
+display:table
+
+To create row inside the table
+
+display:table-row
+
+To create column inside the table
+
+display:table-cell
+
+
+
+.container{
+
+display: flex;
+
+flex-wrap: wrap;
+
+}
+
+inline - width*height will not work
+
+display:table-row - border and margin is not working
+
+text-effects:
+
+1.white-space
+
+2.overflow
+
+3.text-overflow
+
+4.word-break
+
+5.writing-mode

@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+  
+    flex-direction: column;
+  }
+  
+  .header-nav {
+    height: 20%;
+    width: 100%;
+    background-color: aliceblue;
+  }
+  
+  .main-cont {
+    height: 80%;
+    width: 100%;
+    display: flex;
+  }
+  
+  .left-cont {
+    width: 20%;
+    height: 100%;
+  
+    background-color: aqua;
+  }
+  
+  .right-cont {
+    width: 80%;
+    height: 100%;
+  
+    display: flex;
+    align-items: center; /*y axis*/
+    justify-content: center; /*x axis*/
+  }
+  
+  .login-form {
+    width: 50%;
+    height: 50%;
+    border: 2px solid black;
+  }
+  

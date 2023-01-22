@@ -1,0 +1,41 @@
+background-image
+
+example:
+
+background-image:url('');
+
+background-size
+
+example:
+
+background-size:cover --> it will cover entire width and height
+
+background-size:30px 40px --> 30px refers to width of the image and 40px refers to height
+
+of the image.
+
+background-repeat
+
+example:
+
+background-repeat:no-repeat --> it will not repeat the image.
+
+background-position
+
+//it will position the image within container in followings below section
+
+left top
+
+left center
+
+left bottom
+
+right top
+
+right center
+
+right bottom
+
+center top
+
+center center
